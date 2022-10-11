@@ -12,8 +12,7 @@ setup(
         "torchaudio==0.11.0",
         "pyyaml==5.1",
         "opencv-python==4.6.0.66",
-        "detectron2==0.6",
-        # "git+https://github.com/facebookresearch/detectron2.git"
+        "git+https://github.com/facebookresearch/detectron2.git"
     ],
     dependency_links=[
         "git+https://github.com/facebookresearch/detectron2.git",
